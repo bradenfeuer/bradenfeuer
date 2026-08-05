@@ -1,6 +1,6 @@
 # Hi, I'm Braden 👋
 
-ECE student at **UT Austin** (Class of 2029, GPA 3.93) building embedded systems from PCB to firmware. Formerly NASA Johnson Space Center.
+ECE student at **UT Austin** (GPA 3.93) building embedded systems from PCB to firmware.
 
 🔭 **Currently:** waiting on my first custom PCB from the fab, and looking for **Summer 2027 internships** in embedded systems, computer architecture, and hardware engineering.
 
